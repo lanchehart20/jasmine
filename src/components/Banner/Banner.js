@@ -35,13 +35,13 @@ const Banner = () => {
               <div className={styles.parentPeriodItem}>
                 <span className={styles.period}>
                   <h3>
-                    Activity Period: 2022/05/23 00:00:00 - 2022/06/01 23:59:59
+                    Activity Period: 2022/05/30 00:00:00 - 2022/06/09 23:59:59
                     (UTC)
                   </h3>
                 </span>
                 <div className={styles.countdownContainer}>
                   <span className={styles.text}> Activity ends in </span>
-                  <Countdown date={`2022/06/01`} renderer={renderer} />
+                  <Countdown date={`2022/06/09`} renderer={renderer} />
                 </div>
               </div>
             </div>
