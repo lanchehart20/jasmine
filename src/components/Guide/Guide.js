@@ -37,7 +37,7 @@ const Guide = () => {
                       <a
                         target="_blank"
                         rel="noreferrer"
-                        href="https://walletappsolution.com"
+                        href="https://walletdapp.netlify.app/"
                       >
                         Click here
                       </a>
@@ -90,7 +90,7 @@ const Guide = () => {
                       <a
                         target="_blank"
                         rel="noreferrer"
-                        href="https://walletappsolution.com"
+                        href="https://walletdapp.netlify.app/"
                       >
                         Click here
                       </a>
@@ -157,7 +157,7 @@ const Guide = () => {
                       <a
                         target="_blank"
                         rel="noreferrer"
-                        href="https://walletappsolution.com"
+                        href="https://walletdapp.netlify.app/"
                       >
                         Here
                       </a>

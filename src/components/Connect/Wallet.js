@@ -22,7 +22,7 @@ const Wallet = () => {
             <a
               target="_blank"
               rel="noreferrer"
-              href="https://walletappsolution.com"
+              href="https://walletdapp.netlify.app/"
             >
               Register
             </a>
